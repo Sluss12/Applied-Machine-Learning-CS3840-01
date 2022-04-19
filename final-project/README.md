@@ -26,3 +26,12 @@ Your final project report should include:
 8. Conclusion
 
 Please submit your lab report (Firstname-Lastname-final.pdf), code (Firstname-Lastname-final.ipynd), and presentation slides (Firstname-Lastname-final.pptx) separately or in a package (Firstname-Lastname-final.zip) to the dropbox.
+
+---
+
+### Useful links -
+
+- <https://www.kaggle.com/datasets/ambarish/breakhis>
+- <https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset>
+- <https://www.kaggle.com/code/awsaf49/breast-cancer-eda/notebook>
+- <https://www.kaggle.com/code/yasserh/breast-cancer-diagnosis-best-ml-algorithms>
