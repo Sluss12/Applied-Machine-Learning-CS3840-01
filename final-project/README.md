@@ -33,7 +33,10 @@ Please submit your lab report (Firstname-Lastname-final.pdf), code (Firstname-La
 
 ### Useful links -
 
-- <https://www.kaggle.com/datasets/ambarish/breakhis>
-- <https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset>
-- <https://www.kaggle.com/code/awsaf49/breast-cancer-eda/notebook>
-- <https://www.kaggle.com/code/yasserh/breast-cancer-diagnosis-best-ml-algorithms>
+- [Breast Cancer Histopathological Database - BreakHis](https://www.kaggle.com/datasets/ambarish/breakhis)
+- [CBIS-DDSM: Breast Cancer Image Dataset](https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset)
+- [Breast Cancer EDA Notebook for CBIS-DDSM dataset](https://www.kaggle.com/code/awsaf49/breast-cancer-eda/notebook)
+- [Breast Can](https://www.kaggle.com/code/yasserh/breast-cancer-diagnosis-best-ml-algorithms)
+- [Feature Selection and Data Visualization](https://www.kaggle.com/code/kanncaa1/feature-selection-and-data-visualization)
+- [Basic Machine Learning with Cancer](https://www.kaggle.com/code/gargmanish/basic-machine-learning-with-cancer)
+- [Classification - Breast Cancer or Not (with 15 ML)](https://www.kaggle.com/code/mirichoi0218/classification-breast-cancer-or-not-with-15-ml)
